@@ -1,6 +1,8 @@
 # Informacion:
 ```
-Esta es una aplicación de Node para saber el clima en la ciudad que busquemos, optenemos las coordenadas de la ciudad con la api de Mapbox, luego con eso usamos la api de Open Weather para obtener el clima.-
+Esta es una aplicación de Node para saber el clima en la ciudad que busquemos, 
+optenemos las coordenadas de la ciudad con la api de Mapbox, luego con eso usamos 
+la api de Open Weather para obtener el clima.-
 ```
 ```
 =======================
